@@ -1,0 +1,7 @@
+.restaurant-selecting:hover
+{
+    cursor: pointer;
+    font-style: italic;
+    font-weight: bold;
+    color: burlywood;
+}
